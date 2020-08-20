@@ -129,19 +129,19 @@ margin: 0 auto;
 }
 
 .function-img-1 {
-    background-image: url(/img/pic01.png);
+    background-image: url(./img/pic01.png);
 }
 
 .function-img-2 {
-    background-image: url(/img/pic02.png);
+    background-image: url(./img/pic02.png);
 }
 
 .function-img-3 {
-    background-image: url(/img/pic03.png);
+    background-image: url(./img/pic03.png);
 }
 
 .function-img-4 {
-    background-image: url(/img/pic04.png);
+    background-image: url(./img/pic04.png);
 }
 
 .function-divs, .authors-divs, .extras-divs {
